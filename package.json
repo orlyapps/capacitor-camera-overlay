@@ -1,6 +1,6 @@
 {
     "name": "capacitor-camera-overlay",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "description": "Camera Overlay heavily inspired by cordova-camera-preview",
     "main": "dist/esm/index.js",
     "types": "dist/esm/index.d.ts",
@@ -39,9 +39,9 @@
     },
     "repository": {
         "type": "git",
-        "url": "1"
+        "url": "https://github.com/orlyapps/capacitor-camera-overlay"
     },
     "bugs": {
-        "url": "1/issues"
+        "url": "https://github.com/orlyapps/capacitor-camera-overlay/issues"
     }
 }
